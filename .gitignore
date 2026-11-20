@@ -1,0 +1,20 @@
+# Backend
+backend/target/
+backend/data/
+*.mv.db
+*.trace.db
+.classpath
+.project
+.settings/
+application-local.properties
+
+# Frontend
+node_modules/
+dist/
+.env
+.env.local
+
+# Divers
+.vscode/
+.idea/
+*.log
